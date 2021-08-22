@@ -1,6 +1,6 @@
 {
   "name": "ButtonManager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library to connect multiple switches to a single analog port.",
   "keywords": "switch, pin, button",
   "repository":
@@ -17,6 +17,7 @@
       "maintainer": true
     }
   ],
+  "homepage": "https://github.com/MaximeCheramy/ArduinoButtonManager",
   "frameworks": "arduino",
   "platforms": "atmelavr"
 }
