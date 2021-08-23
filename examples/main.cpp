@@ -39,7 +39,7 @@ void handler(bool down, int buttonId)
 
 void setupButtons()
 {
-  buttonManager.setup();
+  buttonManager.begin();
 
   // Pin is connected to ground through a 100kOhm resistor (R0).
   // Each button is connected to the pin and the 5V through a resistor (R1) of different values.

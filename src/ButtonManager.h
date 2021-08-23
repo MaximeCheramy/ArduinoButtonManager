@@ -20,7 +20,7 @@ public:
     {
     }
 
-    void setup()
+    void begin()
     {
         pinMode(_port, INPUT);
     }
