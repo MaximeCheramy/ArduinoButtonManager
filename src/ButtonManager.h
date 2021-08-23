@@ -93,8 +93,6 @@ private:
             }
         }
 
-        Serial.print("Unknown value: ");
-        Serial.println(v);
         return NULL;
     }
 };
